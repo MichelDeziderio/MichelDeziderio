@@ -11,7 +11,7 @@
 
 --- 
 
-### 🏆 Analize do perfil
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a
@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Total de visitantes</b></h3>
+  <h3><b>📍 Total visits</b></h3>
 </div>
 
 <p align="center">
